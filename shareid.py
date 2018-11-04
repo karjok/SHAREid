@@ -38,14 +38,15 @@ except ImportError:
             print(lc+"[✓]Successfully Exiting !"+x)
             exit()
 try:
-      os.remove("id")
-      os.mkdir("id")
+      os.system("rm -rf id")
+      os.system("mkdir id")
+
 except:
       pass
       
 def grup():
       global token 
-      print (lc+'\nTUNGGU SEBENTAR EA...'+x) 
+      print (lc+'\nTUNGGU SEBENTAR EA :*'+x) 
       print (lc+'**********************************'+x)
       try:
             r = requests.get('https://graph.facebook.com/me/groups?access_token='+token)
