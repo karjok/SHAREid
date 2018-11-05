@@ -16,9 +16,10 @@ x  = '\033[0m'
 
 
 """
-Saya tidak tau apakah kalian recode atau tidak.
-Tapi ketahuilah,
-Tuhanmu tak pernah tidur.
+GW LDR 4 TAHUN, DAN BELOM PERNAH KETEMU.
+YANG MAKEK TOOL INI, DOAIN GW YA ?
+MOGA CEPET KETEMU :*
+
 
 """
 
